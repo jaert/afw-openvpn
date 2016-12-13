@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restrictions xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <restriction
+        android:key="CommonVPNConfiguration"
+        android:title="@string/common_vpn_conf"
+        android:restrictionType="string" />
+
+    <restriction
+        android:key="UserVPNConfiguration"
+        android:title="@string/user_vpn_conf"
+        android:restrictionType="string" />
+
+    <restriction
+        android:key="AllowedApps"
+        android:title="@string/allowed_apps_conf"
+        android:restrictionType="string" />
+
+</restrictions>

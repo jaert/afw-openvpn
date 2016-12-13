@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Mon Dec 12 11:12:26 CET 2016
+2.base=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/res/resources-debug.ap_
+5.file=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/res/resources-debug.ap_/res/layout/vpnapplayout.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/res/resources-debug.ap_
+6.file=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/res/resources-debug.ap_
+7.file=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/res/resources-debug.ap_/resources.arsc
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.base=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/res/resources-debug.ap_
+8.file=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/res/resources-debug.ap_
+1.file=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/assets/debug/xposed_init
+1.set=ASSET
+7.base=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/res/resources-debug.ap_
+2.file=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+8.base=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/res/resources-debug.ap_
+3.file=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/assets/debug
+4.file=/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+8.set=ANDROID_RESOURCE
+0.set=DEX

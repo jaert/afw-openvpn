@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/normal/release/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/normal/release/mipmap-xhdpi/banner_tv.png",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/mipmap-xhdpi/banner_tv.png"
+    }
+]

@@ -1,0 +1,294 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:8:1-206:12
+	package
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:10:5-32
+	android:versionName
+		INJECTED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml
+		INJECTED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:9:5-51
+	xmlns:android
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:8:11-69
+	android:versionCode
+		INJECTED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml
+		INJECTED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:16:22-77
+uses-feature#android.software.leanback
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:22:9-49
+uses-feature#android.hardware.touchscreen
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:25:9-52
+application
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:28:5-204:19
+MERGED from [com.android.support:cardview-v7:24.0.0] /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:33:9-36
+	android:supportsRtl
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:34:9-35
+	tools:ignore
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:36:9-39
+	android:allowBackup
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:32:9-43
+	android:banner
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:31:9-43
+	android:theme
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:35:9-38
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:29:9-51
+meta-data#android.content.APP_RESTRICTIONS
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:38:9-39:56
+	android:resource
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:39:13-53
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:38:20-67
+activity#be.blinkt.openvpn.activities.VPNPreferences
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:41:9-44:57
+	android:exported
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:43:13-37
+	android:windowSoftInputMode
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:44:13-54
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:42:13-54
+activity#be.blinkt.openvpn.activities.DisconnectVPN
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:46:9-52:52
+	android:excludeFromRecents
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:49:13-46
+	android:autoRemoveFromRecents
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:48:13-49
+	android:noHistory
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:50:13-37
+	android:theme
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:52:13-49
+	android:taskAffinity
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:51:13-50
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:47:13-53
+activity#be.blinkt.openvpn.activities.LogWindow
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:54:9-58:47
+	android:label
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:57:13-48
+	android:launchMode
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:58:13-44
+	android:allowTaskReparenting
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:56:13-48
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:55:13-49
+activity#be.blinkt.openvpn.activities.FileSelect
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:59:9-59
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:59:19-56
+activity#be.blinkt.openvpn.activities.MainActivity
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:60:9-70:20
+	tools:ignore
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:62:13-44
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:61:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.BROWSABLE+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:63:13-69:29
+action#android.intent.action.MAIN
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:64:17-69
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:64:25-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:66:17-86
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:66:27-83
+category#android.intent.category.BROWSABLE
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:67:17-78
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:67:27-75
+category#android.intent.category.LAUNCHER
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:68:17-77
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:68:27-74
+service#be.blinkt.openvpn.core.OpenVPNService
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:72:9-78:19
+	android:permission
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:74:13-69
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:73:13-48
+intent-filter#android.net.VpnService
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:75:13-77:29
+action#android.net.VpnService
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:76:17-65
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:76:25-62
+service#be.blinkt.openvpn.api.ExternalOpenVPNService
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:80:9-87:19
+	tools:ignore
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:82:13-43
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:81:13-55
+intent-filter#be.blinkt.openvpn.api.IOpenVPNAPIService
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:84:13-86:29
+action#be.blinkt.openvpn.api.IOpenVPNAPIService
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:85:17-83
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:85:25-80
+service#be.blinkt.openvpn.OpenVPNTileService
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:89:9-100:19
+	android:label
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:92:13-45
+	android:permission
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:94:13-77
+	android:icon
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:93:13-46
+	android:value
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:91:13-33
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:90:13-47
+intent-filter#android.service.quicksettings.action.QS_TILE
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:95:13-97:29
+action#android.service.quicksettings.action.QS_TILE
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:96:17-87
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:96:25-84
+meta-data#android.service.quicksettings.ACTIVE_TILE
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:98:13-99:41
+	android:value
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:99:17-38
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:98:24-80
+activity#be.blinkt.openvpn.api.GrantPermissionsActivity
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:102:9-106:20
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:102:19-63
+intent-filter#android.intent.action.MAIN
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:103:13-105:29
+activity#be.blinkt.openvpn.api.ConfirmDialog
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:107:9-111:20
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:107:19-52
+receiver#be.blinkt.openvpn.OnBootReceiver
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:113:9-119:20
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:113:19-49
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:114:13-118:29
+	android:priority
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:114:28-50
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:115:17-79
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:115:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:116:17-84
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:116:25-81
+activity#be.blinkt.openvpn.activities.ConfigConverter
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:121:9-161:20
+	android:label
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:124:13-48
+	android:excludeFromRecents
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:123:13-46
+	tools:ignore
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:127:13-44
+	android:uiOptions
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:126:13-57
+	android:taskAffinity
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:125:13-52
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:122:13-55
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:128:13-135:29
+	android:label
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:128:28-65
+action#android.intent.action.VIEW
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:129:17-69
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:129:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:131:17-76
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:131:27-73
+data
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:134:17-74
+	android:mimeType
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:134:23-71
+activity#be.blinkt.openvpn.LaunchVPN
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:162:9-175:20
+	android:label
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:166:13-53
+	android:excludeFromRecents
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:165:13-46
+	android:autoRemoveFromRecents
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:164:13-49
+	tools:ignore
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:169:13-44
+	android:theme
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:168:13-49
+	android:taskAffinity
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:167:13-46
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:163:13-38
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:170:13-174:29
+activity#be.blinkt.openvpn.activities.CreateShortcuts
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:178:9-188:20
+	android:label
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:181:13-49
+	android:excludeFromRecents
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:180:13-46
+	android:theme
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:183:13-85
+	android:taskAffinity
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:182:13-52
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:179:13-55
+intent-filter#android.intent.action.CREATE_SHORTCUT+android.intent.category.DEFAULT
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:184:13-187:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:185:17-80
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:185:25-77
+provider#be.blinkt.openvpn.FileProvider
+ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:190:9-195:54
+	android:authorities
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:192:13-65
+	android:grantUriPermissions
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:194:13-47
+	android:exported
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:193:13-36
+	tools:ignore
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:195:13-51
+	android:name
+		ADDED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml:191:13-41
+uses-sdk
+INJECTED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:24.0.0] /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0] /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml
+		INJECTED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml
+		INJECTED from /home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/AndroidManifest.xml

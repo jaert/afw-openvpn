@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/incremental/mergeModernDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 52,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 41,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/values-sw600dp/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 41,
+                        "endOffset": 250
+                    }
+                }
+            }
+        ]
+    }
+]

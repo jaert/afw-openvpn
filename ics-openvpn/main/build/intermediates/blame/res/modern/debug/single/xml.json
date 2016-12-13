@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/modern/debug/xml/vpn_ipsettings.xml",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/xml/vpn_ipsettings.xml"
+    },
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/modern/debug/xml/vpn_obscure.xml",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/xml/vpn_obscure.xml"
+    },
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/modern/debug/xml/app_restrictions.xml",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/xml/app_restrictions.xml"
+    },
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/modern/debug/xml/vpn_authentification.xml",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/xml/vpn_authentification.xml"
+    },
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/modern/debug/xml/general_settings.xml",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/xml/general_settings.xml"
+    },
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/modern/debug/xml/vpn_routing.xml",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/xml/vpn_routing.xml"
+    }
+]

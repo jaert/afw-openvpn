@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/normal/release/menu/allowed_apps.xml",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/menu/allowed_apps.xml"
+    },
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/normal/release/menu/import_menu.xml",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/menu/import_menu.xml"
+    },
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/normal/release/menu/vpnpreferences_menu.xml",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/menu/vpnpreferences_menu.xml"
+    },
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/normal/release/menu/main_menu.xml",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/normal/release/menu/connections.xml",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/menu/connections.xml"
+    },
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/normal/release/menu/logmenu.xml",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/menu/logmenu.xml"
+    },
+    {
+        "merged": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/build/intermediates/res/merged/normal/release/menu/configmenu.xml",
+        "source": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/main/src/main/res/menu/configmenu.xml"
+    }
+]

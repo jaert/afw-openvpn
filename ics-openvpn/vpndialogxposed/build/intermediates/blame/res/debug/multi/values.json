@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 60,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 80,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 80,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 130,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/vpndialogxposed/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 130,
+                        "endOffset": 400
+                    }
+                }
+            }
+        ]
+    }
+]

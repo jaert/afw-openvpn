@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ics-openvpn.iml" filepath="$PROJECT_DIR$/ics-openvpn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remoteExample/remoteExample.iml" filepath="$PROJECT_DIR$/remoteExample/remoteExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vpndialogxposed/vpndialogxposed.iml" filepath="$PROJECT_DIR$/vpndialogxposed/vpndialogxposed.iml" />
+    </modules>
+  </component>
+</project>

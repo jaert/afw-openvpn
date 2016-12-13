@@ -1,0 +1,256 @@
+[
+    {
+        "outputFile": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/remoteExample/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/remoteExample/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/remoteExample/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 52,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 50,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 568,
+                        "endColumn": 50,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 51,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 51,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 49,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 49,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 52,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 42,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 42,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 55,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 55,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 88,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 88,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 49,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 49,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 65,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/remoteExample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 65,
+                        "endOffset": 563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 860
+                },
+                "from": {
+                    "file": "/home/jan/werk/onderzoek/mobile_wireless_access_ics/openvpnport/ics-openvpn/remoteExample/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 54,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 182
+                    }
+                }
+            }
+        ]
+    }
+]
